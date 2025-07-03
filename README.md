@@ -14,5 +14,5 @@ Il répond à quelques questions, mais surtout, il râle.
 
 Lance `dave.py` dans un terminal Python (3.x).
 
-```bash
+```
 python dave.py
